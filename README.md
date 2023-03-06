@@ -1,2 +1,3 @@
-# python-common-utils
-python common utils
+# python-common-pkg
+
+Some common python package for self using
